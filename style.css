@@ -1,7 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
 h1{
     background-color: red;
     color: blue;
 }
 #titulo1{
     text-decoration: underline;
+    background-color: pink;
+}
+.grupo1{
+    font-family: "Archivo";
+    border: medium solid;
+    background-color: peru;
+}
+a{
+    margin: 0 1rem;
+}
+a:visited{
+    color: green;
+}
+h1:hover{
+    opacity: 0.8;
 }
